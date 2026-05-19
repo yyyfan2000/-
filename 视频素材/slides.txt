@@ -1,0 +1,17 @@
+file '/Users/xuyangfan/Documents/ai比赛/视频素材/screens/00-title.png'
+duration 12
+file '/Users/xuyangfan/Documents/ai比赛/视频素材/screens/01-home.png'
+duration 26
+file '/Users/xuyangfan/Documents/ai比赛/视频素材/screens/02-meeting.png'
+duration 40
+file '/Users/xuyangfan/Documents/ai比赛/视频素材/screens/03-approval.png'
+duration 36
+file '/Users/xuyangfan/Documents/ai比赛/视频素材/screens/04-document.png'
+duration 28
+file '/Users/xuyangfan/Documents/ai比赛/视频素材/screens/05-attendance.png'
+duration 26
+file '/Users/xuyangfan/Documents/ai比赛/视频素材/screens/06-home-end.png'
+duration 20
+file '/Users/xuyangfan/Documents/ai比赛/视频素材/screens/07-end.png'
+duration 8.5
+file '/Users/xuyangfan/Documents/ai比赛/视频素材/screens/07-end.png'

@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(git clone:*)",
+      "Bash(git -C \"/Users/xuyangfan/Documents/ai比赛/MoneyPrinterTurbo\" status --short --branch)",
+      "Bash(git -C \"/Users/xuyangfan/Documents/ai比赛/MoneyPrinterTurbo\" remote -v)",
+      "Bash(git -C \"/Users/xuyangfan/Documents/ai比赛/MoneyPrinterTurbo\" branch -a)",
+      "Bash(git -C \"/Users/xuyangfan/Documents/ai比赛/MoneyPrinterTurbo\" ls-remote --symref origin HEAD)",
+      "Bash(git -C \"/Users/xuyangfan/Documents/ai比赛/MoneyPrinterTurbo\" fetch origin)",
+      "Bash(git -C \"/Users/xuyangfan/Documents/ai比赛/MoneyPrinterTurbo\" checkout -B main origin/main)",
+      "Bash(unzip -l \"/Users/xuyangfan/Documents/ai比赛/协同办公应用 \\(1\\).zip\")",
+      "Bash(unzip:*)",
+      "Bash(ffmpeg -version)",
+      "Bash(npm -v)",
+      "Bash(npm install:*)",
+      "Bash(npm:*)",
+      "Bash(say -v '?')",
+      "Bash(say:*)",
+      "Bash(ffprobe:*)",
+      "Bash(/opt/homebrew/bin/ffprobe:*)",
+      "Bash(npx playwright:*)",
+      "Bash(curl:*)",
+      "Bash(node:*)",
+      "Bash(/opt/homebrew/bin/ffmpeg:*)"
+    ]
+  }
+}
