@@ -72,7 +72,7 @@ npm install
 npm run dev
 ```
 
-访问 `http://localhost:3000` 即可查看应用。
+访问 `http://cowork-kappa-lyart.vercel.app` 即可查看应用。(需科学上网)
 
 ### 构建生产版本
 
